@@ -6,7 +6,6 @@ Fullscreen.js is a lightweight wrapper around the fullscreen API for fast and br
 
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
-- [Demo](https://eliottrobson.github.io/Fullscreen.js/)
 
 ## Quick start
 
